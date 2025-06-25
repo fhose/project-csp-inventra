@@ -1,0 +1,8 @@
+# Laravel backend
+/backend-inventory-csp/vendor/
+/backend-inventory-csp/storage/
+/backend-inventory-csp/.env
+
+# React frontend
+/frontend-inventaris-csp/node_modules/
+/frontend-inventaris-csp/.env
